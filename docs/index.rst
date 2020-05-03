@@ -1,8 +1,8 @@
-Read the Docs: Documentation Simplified
+Phleb-Finders' Portal User Documentation
 =======================================
 
 .. meta::
-   :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
+   :description lang=en: Phleb-Finders' Portal documentation made easy!
 
 
 `Read the Docs`_ simplifies software documentation
